@@ -14,4 +14,4 @@ In this project a branch repository will be used create a CRUD RESTful API that 
 The development of a this repository will be containing an existing ASP.NET Core MVC Web Application that will be enhanced and improved
 
 ##### Peoject 4 Testing & PRA
-This repository will use the ASP>NET Core MVC Web Application that was used in the development of Project 3, the 
+This repository will use the ASP.NET Core MVC Web Application that was used in the development of Project 3, the Application would need to go through User Acceptence Testing (UAT), where a team of testers would have a test dataset containing input data and desired output data.
