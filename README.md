@@ -22,7 +22,7 @@ The GitFlow branching strategy will be used thoughout the duration of the devleo
  - The branches naming follows a systematic pattern making it easier to comprehend.
  - It has extensions and support on most used git tools.
  - It is ideal when there it needs to be multiple version in production.
-The main goal of  using this branching strategy is to have a clearer mental model with extremely separate lanes of development.
+The main goal of using this branching strategy is to have a clearer mental model with extremely separate lanes of development.
 
 <img width="1626" alt="gitflow-network" src="https://user-images.githubusercontent.com/88317016/185258535-c2b69e3a-acf0-4d97-a93e-9cc17b32a57c.png">
 
