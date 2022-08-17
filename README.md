@@ -15,3 +15,7 @@ This repository will be used in the development of the first project in the IT D
 
 ##### Project 5 Reporting & Monitoring
 - The last repository will be branched to the the main repository and contain a complete report that will be built in Power BI that will allow all stakeholders to see the same information pertaining to the status of IoT device registrations on various platforms
+
+###### Context Diagram
+
+![ReadMe drawio](https://user-images.githubusercontent.com/88317016/185160672-8edccd7c-bdf8-4ffe-b0f5-96714215814b.png)
