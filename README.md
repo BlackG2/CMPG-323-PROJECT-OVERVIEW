@@ -18,4 +18,5 @@ This repository will be used in the development of the first project in the IT D
 
 ###### Context Diagram
 
-![ReadMe drawio](https://user-images.githubusercontent.com/88317016/185160672-8edccd7c-bdf8-4ffe-b0f5-96714215814b.png)
+![ReadMe drawio (1)](https://user-images.githubusercontent.com/88317016/185161970-096c0822-f2c5-4b57-8663-0f1ac203f39b.png)
+
