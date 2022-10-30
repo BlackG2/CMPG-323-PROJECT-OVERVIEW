@@ -6,6 +6,7 @@ This repository will be used in the development of the first project in the IT D
 
 ## Project 2 API Development
 - The project 2 repository will be used create a CRUD RESTful API that will connect to a database storing IoT device data.
+https://github.com/BlackG2/CMPG-323-Project-2-34525718
 
 ## Project 3 Standards & Patterns
 - The development of a this repository will be containing an existing ASP.NET Core MVC Web Application that will be enhanced and improved.
